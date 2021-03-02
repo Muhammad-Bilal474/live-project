@@ -1,0 +1,32 @@
+.terms-main{
+    margin: 3rem 0rem 0rem 3rem;  
+
+}
+
+.terms-heading{
+    border-bottom: 2px solid green;
+    width: fit-content;
+}
+
+.terms-blog p{
+    margin-top: 2rem;
+}
+
+
+
+@media only screen and (max-width: 780px){
+    .terms-main{
+        margin: 3rem 0rem 0rem 1.5rem;  
+    
+    }
+    
+    .terms-heading h1{
+        font-size: 22px;
+    }
+
+    .terms-blog p{
+        margin-top: 2rem;
+        font-size: 15px;
+    }
+    
+}
